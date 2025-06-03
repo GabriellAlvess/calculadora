@@ -1,7 +1,7 @@
 # calculadora.py
 
 def somar(a, b):
-    # Função para somar dois números
+    
     res = a + b
     print("Resultado da soma: " + str(res)) # Potencial problema: usar print em função de cálculo
     return res
